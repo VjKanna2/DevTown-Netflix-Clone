@@ -17,7 +17,7 @@ To view this project, simply clone the repository or download the source code an
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/netflix-clone.git
+    git clone https://github.com/vjkanna2/netflix-clone.git
     cd netflix-clone
     ```
 
