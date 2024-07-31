@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a clone of the Netflix homepage, created using HTML5 and CSS3. It was developed as part of the DevTown BootCamp to demonstrate the skills and concepts learned during the course. The goal of this project is to replicate the visual design of Netflix's homepage, focusing on layout, styling.
+This project is a clone of the Netflix homepage, created using HTML5 and CSS3. It was developed as part of the DevTown BootCamp to demonstrate the skills and concepts learned during the course. The goal of this project is to replicate the visual design of Netflix's homepage, focusing on layout, and styling. Additionally, I've added responsiveness on my own.
 
 
 ## Technologies Used
